@@ -23,7 +23,17 @@
   "dependencies": {
     "chai": "^4.2.0",
     "colors": "^1.4.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "semver": "^6.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.4.0",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "3.0.2",
+    "stylelint": "^15.10.3",
+    "stylelint-config-standard": "^34.0.0",
+    "stylelint-lsp": "^1.2.4"
   }
 }
